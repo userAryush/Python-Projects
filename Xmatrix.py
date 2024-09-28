@@ -1,3 +1,4 @@
+#In this program player have to choose a box in 3X3 matrix and try to fill it in less move
 def play_game():
     
     mat = [[1,1,1],
